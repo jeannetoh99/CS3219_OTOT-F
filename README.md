@@ -32,5 +32,5 @@ Example: `GET /api/photos`
 
 
 ### To Clear All Redis Cache
-- Turn on redis CLI: `redis-cli`
+- Start redis CLI: `redis-cli`
 - In the redis console: run `flushall`
